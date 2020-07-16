@@ -1,3 +1,5 @@
+<img align="right" src="https://media1.giphy.com/media/RhHHTsjhLvfWw/giphy.gif">
+
 #### Active in:
 - docker / docker-compose
 - php / laravel
