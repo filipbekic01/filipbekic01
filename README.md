@@ -7,7 +7,7 @@
 - clean code / design
 
 :star2: Investigating:
-- :point_up:
+- :point_up: all above
 - domain-driven design / cqrs / es
 - symfony
 
