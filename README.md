@@ -1,4 +1,4 @@
-:star: Active in:
+#### Active in:
 - docker / docker-compose
 - php / laravel
 - dotnet core / c-sharp / ef
@@ -6,12 +6,12 @@
 - layered arhitecture / mvc
 - clean code / design
 
-:star2: Investigating:
+#### Investigating:
 - :point_up: all above
 - domain-driven design / cqrs / es
 - symfony
 
-:sparkles: Interested in:
+#### Interested in:
 - :point_up: all above
 - k8s
 - microservices
