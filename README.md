@@ -10,7 +10,7 @@
 
 #### Investigating:
 - :point_up: all above
-- domain-driven design / cqrs / es
+- hexagonal arch / ddd / cqrs / es
 - symfony
 
 #### Interested in:
