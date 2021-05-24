@@ -1,5 +1,3 @@
-<img align="right" src="https://media1.giphy.com/media/RhHHTsjhLvfWw/giphy.gif">
-
 - docker / docker-compose /
   kubernetes
 - php / laravel /symfony
