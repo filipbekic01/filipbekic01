@@ -1,11 +1,10 @@
+- dotnet core / c-sharp / ef
+- javascript / vuejs 
 - docker / docker-compose /
   kubernetes
-- php / laravel /symfony
-- javascript / vuejs 
-- dotnet core / c-sharp / ef
-- postgresql / mysql / rabbitmq / reddis
-- layered arhitecture / mvc / hexagonal arch / 
+- php / laravel /symfon
+- postgresql / rabbitmq / reddis
+- layered arch / mvc / hexagonal arch / 
   ddd / cqrs / es /
   microservices
 - clean code / design
-- go / iris fw / gin fw
