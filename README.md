@@ -1,6 +1,7 @@
-- dotnet core / C# / ef core
-- javascript / vue
+- dotnet / C# / ef core
+- js / ts / vue
 - docker / docker-compose / kubernetes
-- postgresql / rabbitmq / reddis
+- pgsql / rabbitmq / redis
 - event-drive architecture
 - clean code / design
+- unit / integration / e2e
