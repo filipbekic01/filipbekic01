@@ -1,7 +1,7 @@
 - dotnet / C# / ef core
 - js / ts / vue
-- docker / docker-compose / kubernetes
-- pgsql / rabbitmq / redis
+- docker / docker-compose / kubernetes / lambdas
+- pgsql / rabbitmq / redis / mongodb
 - event-drive architecture
 - clean code / design
 - unit / integration / e2e
