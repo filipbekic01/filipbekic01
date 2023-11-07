@@ -1,7 +1,6 @@
-- dotnet / C# / ef core
-- js / ts / vue
-- docker / docker-compose / kubernetes / lambdas
-- pgsql / rabbitmq / redis / mongodb
-- event-drive architecture
-- clean code / design
-- unit / integration / e2e
+.-.   .-..-.  .-..----. .----. .----..-. .---. .-. .-. .----.
+|  `.'  | \ \/ / | {}  \| {_  { {__  | |/   __}|  `| |{ {__  
+| |\ /| |  }  {  |     /| {__ .-._} }| |\  {_ }| |\  |.-._} }
+`-' ` `-'  `--'  `----' `----'`----' `-' `---' `-' `-'`----' 
+
+Software Engineer
