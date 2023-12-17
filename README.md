@@ -4,7 +4,7 @@
 | |\ /| |  }  {  |     /| {__ .-._} }| |\  {_ }| |\  |.-._} }
 `-' ` `-'  `--'  `----' `----'`----' `-' `---' `-' `-'`----'
 
-MyDesigns, Software Engineer
+MyDesigns, Software Engineer (Co-Founder)
 ```
 
 
